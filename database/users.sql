@@ -34,14 +34,6 @@ CREATE TABLE `users` (
   `user_password` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
---
--- Despejando dados para a tabela `users`
---
-
-INSERT INTO `users` (`user_id`, `user_name`, `user_email`, `user_password`) VALUES
-(1, 'Leonardo', 'leonardo@gmail.com', 'ad002ba942fffc28f87ba7360e2ada3c');
-
---
 -- Índices para tabelas despejadas
 --
 
