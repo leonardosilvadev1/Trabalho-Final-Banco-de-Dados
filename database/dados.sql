@@ -45,8 +45,8 @@ CREATE TABLE `dados` (
 --
 
 INSERT INTO `dados` (`id_aluno`, `aluno_name`, `data_nasc`, `rua`, `numero`, `bairro`, `cep`, `nome_responsavel`, `tipo_responsavel`, `curso`) VALUES
-(1, 'Levi', '2008-12-05', 'Teste', 6, 'Teste', 63700000, 'Diana', 'Mãe', 'Informática'),
-(2, 'Leonardo', '2009-04-02', 'Teste', 10, 'Teste', 63700000, 'Artemir', 'Mãe', 'Informática'),
+(1, 'Levi', '2008-12-05', 'Central', 6, 'Centro', 63700000, 'Diana', 'Mãe', 'Informática'),
+(2, 'Leonardo', '2009-04-02', 'Central', 10, 'Centro', 63700000, 'Artemir', 'Mãe', 'Informática'),
 (4, 'João', '2008-10-10', 'Central', 12, 'Centro', 63700001, 'Maria', 'Mãe', 'Enfermagem'),
 (5, 'Maria', '2008-05-11', 'Central', 15, 'Morada I', 63709997, 'Marcelo', 'Pai', 'Desenvolvimento de Sistemas'),
 (7, 'Lúcia', '2008-11-22', 'Moreira da Rocha', 99, 'Centro', 63701001, 'Marília', 'Mãe', 'Informática'),
