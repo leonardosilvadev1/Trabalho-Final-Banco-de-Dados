@@ -12,7 +12,7 @@
 - Configuração de conexão com o banco de dados.
 
 ## Tecnologias Utilizadas
-- Linguagem de Programação: PHP
+- Linguagem de Backend: PHP
 - Banco de Dados: MySQL
 - Gerenciamento de Banco: phpMyAdmin
 - Frontend: HTML, CSS, JavaScript e Bootstrap
@@ -22,7 +22,7 @@ Os arquivos necessários para a criação das tabelas users, dados e admin estã
 - users.sql: Criação da tabela de usuários.
 - admin.sql: Armazena os dados dos admins do sistema (Lembrando que devem ser criados dentro do próprio phpMyAdmin).
 - dados.sql: Armazena os dados dos alunos cadastrados.
-- Lembrando que deve cadastrar um usuário primeiro ao iniciar o projeto para acessar o painel de usuário e cadastrar um admin diretamente ao banco.
+- Lembrando que deve cadastrar um usuário primeiro ao iniciar o projeto para acessar o painel de usuário e a tela de login funciona tanto para Usuário quanto para Admin, e novamente ressaltando que o admin deve ser cadastrado diretamente ao banco com uma senha gerada por um conversor para MD5 Hash.
 
 Arquivos PHP:
 - conexao.php: Configuração da conexão com o MySQL.
