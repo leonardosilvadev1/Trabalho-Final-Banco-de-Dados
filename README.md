@@ -44,10 +44,15 @@ Arquivos PHP:
 Ajuste e configure o arquivo conexao.php para ajustar ao seu projeto com as credenciais de conexão (HOST, USUARIO, SENHA, DB).
 
 ## Imagens do Projeto
-
+Tela de Login
 <img src="images/Tela de Login.png" alt="Tela de Login">
+Tela de Cadastro 
 <img src="images/Tela de Cadastro.png" alt="Tela de Login">
-<img src="images/Tela Principal Usuário.png" alt="Tela de Login">
+Homepage do Usuário 
+<img src="images/Tela Principal Usuário.png" alt="Tela de Login"
+Homepage do Admin
 <img src="images/Tela Principal Admin.png" alt="Tela de Login">
+Formulário de Cadastro de Alunos
 <img src="images/Formulário de Cadastro de Aluno.png" alt="Tela de Login">
+Painel de Exibição e Edição de Alunos
 <img src="images/Painel de Exibição e Edição de Alunos.png" alt="Tela de Login">
