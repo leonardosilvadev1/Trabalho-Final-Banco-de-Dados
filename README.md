@@ -49,7 +49,7 @@ Tela de Login
 Tela de Cadastro 
 <img src="images/Tela de Cadastro.png" alt="Tela de Login">
 Homepage do Usuário 
-<img src="images/Tela Principal Usuário.png" alt="Tela de Login">
+<img src="images/Tela Principal Usuário.png" alt="Tela de Login"
 Homepage do Admin
 <img src="images/Tela Principal Admin.png" alt="Tela de Login">
 Formulário de Cadastro de Alunos
