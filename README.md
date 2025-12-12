@@ -27,8 +27,8 @@ Os arquivos necessários para a criação das tabelas users, dados e admin estã
 Arquivos PHP:
 - conexao.php: Configuração da conexão com o Banco.
 - index.php, login.php, telacadastro.php, cadastro.php, verifica_login.php, logout.php: Arquivos e lógica de autenticação de usuários.
-- form.php, form_config.php: Arquivos e lógica de cadastro de alunos.
-- dados.php, editar_aluno.php, atualizar_aluno.php, remover_aluno.php: Arquivos e lógica de gerenciamento das tabelas no banco.
+- form.php, form_config.php: Arquivos e lógica do cadastro de alunos no banco de dados.
+- dados.php, editar_aluno.php, atualizar_aluno.php, remover_aluno.php: Arquivos de exibir dados de alunos cadastrados e lógica de edição e remoção de alunos (CRUD).
 - painel.php, painel_admin.php: Exibe a tela inicial do usuário e a Dashboard de dados (alunos, curso, responsáveis, etc.).
 - menu.php, menu_admin.php: Barras de navegações separadas para uma melhor manutenção do código.
 - consultas.php: Pega os dados do banco de dados para exibir na dashboard.
